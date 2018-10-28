@@ -17,9 +17,9 @@
           <entry key="project.closed" value="7" />
           <entry key="project.open.time.0" value="3" />
           <entry key="project.open.time.1" value="1" />
-          <entry key="project.open.time.3" value="2" />
+          <entry key="project.open.time.3" value="3" />
           <entry key="project.open.time.4" value="1" />
-          <entry key="project.opened" value="7" />
+          <entry key="project.opened" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -74,8 +74,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/testCases/debugTC.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="364">
-              <caret line="25" column="58" selection-start-line="25" selection-start-column="58" selection-end-line="25" selection-end-column="58" />
+            <state relative-caret-position="442">
+              <caret line="28" lean-forward="true" selection-start-line="27" selection-start-column="42" selection-end-line="28" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -102,7 +102,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/testEPlan" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -200,8 +200,8 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -302,9 +302,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="debugTC - 2018.10.27 at 22h 18m 24s.xml">
-      <configuration name="debugTC" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="debugTC - 2018.10.27 at 22h 26m 08s.xml">
       <configuration name="debugTC" configurationId="JUnit" />
     </history-entry>
@@ -332,11 +329,14 @@
     <history-entry file="debugTC_verifyLinkSignIn - 2018.10.27 at 23h 03m 09s.xml">
       <configuration name="debugTC.verifyLinkSignIn" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="debugTC_verifyLinkSignIn - 2018.10.27 at 23h 17m 32s.xml">
+      <configuration name="debugTC.verifyLinkSignIn" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1933" height="1053" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19573334" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19786666" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -353,7 +353,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="10" weight="0.21691974" />
+      <window_info anchor="bottom" id="Run" order="10" visible="true" weight="0.21691974" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -415,8 +415,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/testCases/debugTC.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="364">
-          <caret line="25" column="58" selection-start-line="25" selection-start-column="58" selection-end-line="25" selection-end-column="58" />
+        <state relative-caret-position="442">
+          <caret line="28" lean-forward="true" selection-start-line="27" selection-start-column="42" selection-end-line="28" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
